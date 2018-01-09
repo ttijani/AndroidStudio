@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/531d76c9fe26c96c1569b952e357530bb9600127/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f23013e418be363fa4d7343d81b79d8dd12d4212">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_045251e34ba796fd0af2d15c6e5a39c4ebf454c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/6fd0faeb040b87682d45fb40bc51f6708f93deb2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_cf417907051f9b1bc0fec2dc641945e1134e70e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/common-1.0.0_bb51319d618696aa85a4d47910f92b37b0014220.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/c1010c0acde639922d667c83434bbe534e18de39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_830dd7b682534c9d910b023a9a63b61323dfc2c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/f58e08fac846aceedb959c622761b3876911965b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_862519838121e7eb48a557af4fcd3d4b581c4498.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/44fc0c0cd29f8ffd6a005fb03b64f16defba123c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_be1c956864c4eddea905017904a5f169f060828b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/e181b90b991909ce8c26fc837b31084eb8a3e4ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_3532681018268a0dcc06f84d572e6fa6a8ea80f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/40b2275b2ea49dff9c0fab71c8ee1e4d89023ca6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bde00e92c4a5a0a1075df7404248ccb30fc7e62b">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_3af0e01810931d3459b4b3dd0f28e4348c16720c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/ade4dae1acb14c3fa32dcda2bfe6b467334dd6ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_7fff82cca7904802c4219da62209700a57d07325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_27ac3f942ccce93875de5f835b2b4d751a57eac5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/427fbf9ba2d92c311a1eb78cdf82cc87b03cee03/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_cbbeae3c6528638e366db54cae13af54488dbbff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/common-1.0.0_5685f980ac2b4c53642cade0e3ca99b64b0c413e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/2676d4d200d3d5fd2fe355498dd921929ffd549b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f0f484b1a18c1676984dfea4e572ceffda2f3b78">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_b787b0abe8ecd8b250bc6cbc20ee1c69a70cc20e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.0.0/d88059003509074dd59fa226c822724bcf5ec0ca/disklrucache-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d88059003509074dd59fa226c822724bcf5ec0ca">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/disklrucache-4.0.0_e642f1990d5a4f89585fbc49ce6b7818c29cffb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/a84bcae8aed76956d29f684eb8a64df545906361/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_ba0482e12cb8720cab5de57ff1b2ad4aea72afa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/31bfdad5eddd625a2fc678098bd310a06de8040c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38ceaeb22ef95d1a0d320ecdad9be7383d6b7923">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_8e73703552a3e496a164043293b0d1d401165592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/7eef0ea84a08de26907eb52d62cbb3bb4921ce16/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_73d5c2968efdb6c5ef45012f0b97c5d65f9be776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/418cb1109c55c9c4943cd085703d7fff23e781f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_3ca3c675be35db62ee6abd9207dfdd532f7270dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/6c5e5a29812b7236fbead40c9083eb4272ef82dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_9d3471ac2532c68f1224f8dc310d783e6120a44f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/78fc62df16245a3b286c7f1ba2cde471b174bfa0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_a00e6c3d5c4abc84f72d8201c2bf74c5c58b2297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/513f759ddbc17e2adf456752f812fc774a7c9e54/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_40637df54303d33e9ae14e16edeb208c989d5909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/c4927b8277bb7f26e5d0e23582faf81f81b3dc42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_7ac991c90c3a637dee1a370eaaa642ad94ccace0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/0ca8af42d3a6d9cfdbf89d21cc4477bd97a8adfb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_00dfce1f8b692f94722afff6c0f3fe6a96a4c012.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_f533d3b5cb79c6ede4c4cc976b84c83c6ea106fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.0.0/f80192e6fd828d41c7da6f3552b0bef5d89cb26e/annotations-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f80192e6fd828d41c7da6f3552b0bef5d89cb26e">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/annotations-4.0.0_96ebeb0a37ed2a2a97d4f5c81cd1bf289055a166.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/5cc9c28ed49e7696ab90d3683b21e113e4cfea6b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_a93f8b2aefe8e66ff34dc17504517e61d4a7d739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/a83ab7f9522475dbe3cf9b65ee611fd69e4e3a7a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_62fdf8185bf94357bc4215b6b028365663036a9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/ed28fe4723dcbe9e5c403e70cc1cea9eb2cf1b42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_4dea2dd78969043402d3d96d083e4818bccea8ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/00a18b74297d852049ede25972b2f91b7919a46e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_c66c309e2010ea5e1b8a5fde9f8d28d99569d7d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0/dff931af436f0a2815d0109ab2258bbce2d6275d/glide-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff931af436f0a2815d0109ab2258bbce2d6275d">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/glide-4.0.0_57c56785ce45a4f9922f5e34dd197692c18ab408.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/852f2cff1fbbf23c9b98c55f8a79725ce9394588/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="601ebd8fa027a3dad924ffa1cb14689ced5aa436">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_70ddd7e94b8acecf9ad32e5f08e7c725d5994495.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.0.0/47c487cc4e64e6ab127a517669ca9a7b49f8c61d/gifdecoder-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47c487cc4e64e6ab127a517669ca9a7b49f8c61d">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/gifdecoder-4.0.0_ff602d191e73b104119c7f2d7ffe47f2683f7a62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/4b3771260fadd2b2470fec0f89f9dc742fa0e452/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_c230fa554896d3e97ea563b7d307f8cfa630b895.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/73c7a0765a84742ac3a755cf5e2ae762992c2490/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="08bbb31d3aae0e337647a49575c2d1f1ec7d6996">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_6f1503f7f7af708d89b11555d085a3180325f391.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/880aef6acc60c54be8dfd353b241151e5811e455/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c59cc4d67084879423713a416182208836c0a29f">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_e3f0132650a26bc518fc285c6c45f5a88c55c748.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tijanioluwatimilehin/.android/build-cache/41d94a938fb15e2e07d133cb29f012e62fce2457/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/pre-dexed/debug/classes_96c45e0e4709389bc3eb7354407290f85f5ece12.jar" />
+    </item>
+
+</items>

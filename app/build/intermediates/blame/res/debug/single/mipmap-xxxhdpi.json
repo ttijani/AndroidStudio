@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_driver.png",
+        "source": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/src/main/res/mipmap-xxxhdpi/ic_driver.png"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_profile_image.png",
+        "source": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/src/main/res/mipmap-xxxhdpi/ic_profile_image.png"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_pickup_location.png",
+        "source": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/src/main/res/mipmap-xxxhdpi/ic_pickup_location.png"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_driver_car.png",
+        "source": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/src/main/res/mipmap-xxxhdpi/ic_driver_car.png"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

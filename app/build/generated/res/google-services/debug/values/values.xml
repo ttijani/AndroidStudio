@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">272806422614-jul77ucjdpn7kl4jevjrqo311s2f26ki.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://rideut-ac1a9.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">272806422614</string>
+    <string name="google_api_key" translatable="false">AIzaSyB4sXAzLn_yprTycx4aeq1xOhHIX1PocZg</string>
+    <string name="google_app_id" translatable="false">1:272806422614:android:71a13c68d4245165</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB4sXAzLn_yprTycx4aeq1xOhHIX1PocZg</string>
+    <string name="google_storage_bucket" translatable="false">rideut-ac1a9.appspot.com</string>
+    <string name="project_id" translatable="false">rideut-ac1a9</string>
+</resources>

@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/ride_history.xml",
+        "source": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/src/main/res/layout/ride_history.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/513f759ddbc17e2adf456752f812fc774a7c9e54/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/activity_history.xml",
+        "source": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/src/main/res/layout/activity_history.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/activity_logged_in.xml",
+        "source": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/src/main/res/layout/activity_logged_in.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/activity_landing_page.xml",
+        "source": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/src/main/res/layout/activity_landing_page.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/513f759ddbc17e2adf456752f812fc774a7c9e54/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/da3d50aac2a9e803f98c28aa533ee613217d5984/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/31bfdad5eddd625a2fc678098bd310a06de8040c/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/31bfdad5eddd625a2fc678098bd310a06de8040c/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/activity_driver_map_activity.xml",
+        "source": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/src/main/res/layout/activity_driver_map_activity.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/78fc62df16245a3b286c7f1ba2cde471b174bfa0/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/activity_driver_settings.xml",
+        "source": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/src/main/res/layout/activity_driver_settings.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/activity_driver_login.xml",
+        "source": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/src/main/res/layout/activity_driver_login.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/513f759ddbc17e2adf456752f812fc774a7c9e54/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/513f759ddbc17e2adf456752f812fc774a7c9e54/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/activity_customer_login.xml",
+        "source": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/src/main/res/layout/activity_customer_login.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/513f759ddbc17e2adf456752f812fc774a7c9e54/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/513f759ddbc17e2adf456752f812fc774a7c9e54/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/513f759ddbc17e2adf456752f812fc774a7c9e54/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/tooltip.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/31bfdad5eddd625a2fc678098bd310a06de8040c/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/activity_customer_map.xml",
+        "source": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/src/main/res/layout/activity_customer_map.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/513f759ddbc17e2adf456752f812fc774a7c9e54/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/activity_history_single.xml",
+        "source": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/src/main/res/layout/activity_history_single.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/activity_customer_settings.xml",
+        "source": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/src/main/res/layout/activity_customer_settings.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/513f759ddbc17e2adf456752f812fc774a7c9e54/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/4f55f3e2bc3aa82a50a7439cf3b6acf8953f13bb/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/tijanioluwatimilehin/AndroidStudioProjects/RideUT/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/tijanioluwatimilehin/.android/build-cache/78fc62df16245a3b286c7f1ba2cde471b174bfa0/output/res/layout/notification_template_part_chronometer.xml"
+    }
+]
